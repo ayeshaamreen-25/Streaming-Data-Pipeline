@@ -1,0 +1,16 @@
+{
+	"name": "adf-streamingproj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8aa4fed9-435e-4ca9-ae64-2e62bc1a5817",
+		"tenantId": "7f4225da-996f-4e8f-a59a-99d84badaa79"
+	}
+}
